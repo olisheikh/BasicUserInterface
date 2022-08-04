@@ -1,3 +1,3 @@
 # BasicUserInterface
-Basic user interface is build by using Android.
+A single page App.
 ![](HappyBirthDay.jpeg)
